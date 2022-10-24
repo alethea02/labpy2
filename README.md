@@ -14,6 +14,8 @@
 #### - Mencetak nilai variable a dan b
 #### - Mencetak hasil penjumlahan a+b
 ![Gambar1](gambar/git2.png)
+![Gambar1](gambar/git3.png)
+
 
 
 # Latihan 3
