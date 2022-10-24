@@ -21,6 +21,6 @@
 #### - Menjalankan IDLE
 #### - Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
 #### - Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
-![Gambar1](gambar/git3.png)
-
 ![Gambar1](gambar/git4.png)
+
+![Gambar1](gambar/git5.png)
