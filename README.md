@@ -23,4 +23,4 @@
 #### - Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
 ![Gambar1](gambar/git3.png)
 
-![Gambar1](gambar/giit4.png)
+![Gambar1](gambar/git4.png)
